@@ -1,0 +1,148 @@
+
+body{
+
+margin: 0;
+padding: 0;
+
+
+}
+.nav-link{
+
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    border-radius: 20px;
+}
+
+.nav-link:hover{
+    border-radius: 20px;
+color: rgb(255, 255, 255);
+background-color: white;
+}
+
+
+
+#Menu{
+
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    border-radius: 20px;
+
+}
+
+#Menu:hover{
+    border-radius: 20px;
+color: rgb(0, 0, 0);
+background-color: white;
+}
+
+.offcanvas{
+
+background-color: #613991;
+
+}
+
+.countdown {
+    display: flex; /* Usar flexbox */
+    justify-content: center; /* Centrar los elementos horizontalmente */
+    align-items: center; /* Centrar los elementos verticalmente */
+    font-size: 90px;
+    margin: 20px;
+}
+
+.countdown div {
+    margin: 0 40px; /* Espaciado entre los elementos */
+}
+
+#days{
+
+background-color: #613991;
+padding: 10px;
+border-radius: 20px;
+color: white;
+
+}
+
+#hours{
+
+    background-color: #613991;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+
+}
+
+#minutes{
+
+    background-color: #613991;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+
+}
+
+#seconds{
+
+    background-color: #613991;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+
+}
+
+
+#Oferta:hover{
+
+    border-radius: 20px;
+color: rgb(255, 255, 255);
+background-color: #f1881b;
+
+}
+
+.countdownm {
+    display: flex; /* Usar flexbox */
+    justify-content: center; /* Centrar los elementos horizontalmente */
+    align-items: center; /* Centrar los elementos verticalmente */
+    font-size: 50px;
+    margin: 10px;
+}
+
+
+.countdownm div {
+    margin: 0 10px; /* Espaciado entre los elementos */
+}
+
+#daysm{
+
+background-color: #613991;
+padding: 10px;
+border-radius: 20px;
+color: white;
+
+}
+
+#hoursm{
+
+    background-color: #613991;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+
+}
+
+#minutesm{
+
+    background-color: #613991;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+
+}
+
+#secondsm{
+
+    background-color: #613991;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+
+}
